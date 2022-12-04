@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  text-align:center;
+}
+
+
+.row{
+  text-align: center;
+  font-size:25px;
+  margin: 6px;
+  
+}
+.blank{
+  width:8%;
+  height:20px;
+  border-radius:9px;
+}
+.head h1{
+  text-align:center;
+  
+}
+.row button{
+  cursor:pointer;
+  padding:8px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin:3px;
+}
